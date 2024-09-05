@@ -1,6 +1,5 @@
 import torch
 import torch.nn.functional as F
-from tqdm import tqdm
 from torch.utils.data import random_split
 
 class Trigram:
